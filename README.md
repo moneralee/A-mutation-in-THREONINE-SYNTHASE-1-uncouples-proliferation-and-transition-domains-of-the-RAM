@@ -1,4 +1,5 @@
-<b>A-mutation-in-THREONINE-SYNTHASE-1-uncouples-proliferation-and-transition-domains-of-the-RAM<\b>
+<b>A-mutation-in-THREONINE-SYNTHASE-1-uncouples-proliferation-and-transition-domains-of-the-RAM</b>
+
 This folder contains R scripts for the in silico root simulations shown in the manuscript “A mutation in THREONINE SYNTHASE 1 uncouples proliferation and transition domains of the root apical meristem”. 
 Authors: Monica L. Garcia-Gomez, Blanca Jazmin Reyes-Hernandez, Debee Prasad Sahoo, Selene Napsucialy-Mendivil,Aranza Xhaly Quintana-Armas, Jose Antonio Pedroza-Garcia, Svetlana Shishkova, Hector Hugo Torres-Martinez, Mario A. Pacheco-Escobedo, and Joseph G. Dubrovsky, 2022  
 
