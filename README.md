@@ -2,7 +2,7 @@
 
 This folder contains R scripts for the in silico root simulations shown in the manuscript “A mutation in THREONINE SYNTHASE 1 uncouples proliferation and transition domains of the root apical meristem”. 
 
-Authors: Monica L. Garcia-Gomez, Blanca Jazmin Reyes-Hernandez, Debee Prasad Sahoo, Selene Napsucialy-Mendivil,Aranza Xhaly Quintana-Armas, Jose Antonio Pedroza-Garcia, Svetlana Shishkova, Hector Hugo Torres-Martinez, Mario A. Pacheco-Escobedo, and Joseph G. Dubrovsky, 2022  
+Authors: Monica L. Garcia-Gomez, Blanca Jazmin Reyes-Hernandez, Debee Prasad Sahoo, Selene Napsucialy-Mendivil,Aranza Xhaly Quintana-Armas, Jose Antonio Pedroza-Garcia, Svetlana Shishkova, Hector Hugo Torres-Martinez, Mario A. Pacheco-Escobedo, and Joseph G. Dubrovsky, Development 2022  
 
 Simulations for the role of Thr biosynthesis enzymes (1-Simulation...) and both Thr biosynthesis and catabolism enzymes (2-Simulation...) are included.
 
